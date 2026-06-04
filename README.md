@@ -1,4 +1,4 @@
-## 🎨 Neural Style Transfer using VGG19
+# 🎨 Neural Style Transfer using VGG19
 
 > Apply artistic styles to images using deep learning with VGG19 and transfer learning.
 
